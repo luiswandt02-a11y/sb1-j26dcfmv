@@ -23,7 +23,7 @@ const reasons = [
     icon: CalendarOff,
     title: 'Kein Termin nötig',
     description:
-      'Kommen Sie einfach in unsere Praxis in der Bodestraße 5 in Staßfurt – ganz ohne Voranmeldung, zu unseren regulären Öffnungszeiten.',
+      'Kommen Sie einfach in unserem Betrieb vorbei  – ganz ohne Voranmeldung, zu unseren Öffnungszeiten.',
   },
 ];
 
@@ -43,7 +43,7 @@ export default function WhyWandt() {
             </h2>
             <p className="text-gray-500 leading-relaxed text-base mb-8">
               Wir stehen für Verlässlichkeit, handwerkliche Exzellenz und echte Nähe zu unseren
-              Patientinnen und Patienten.
+              Patienten.
             </p>
             <div className="w-12 h-1 bg-[#0C2D55] rounded" />
           </div>

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Phone, MapPin, Clock } from 'lucide-react';
+import { Phone, MapPin, Clock, Mail } from 'lucide-react';
 
 function ImpressumModal({ onClose }: { onClose: () => void }) {
   return (
@@ -17,8 +17,7 @@ function ImpressumModal({ onClose }: { onClose: () => void }) {
           <p>Bodestr. 5<br />39418 Staßfurt</p>
           <p>Telefon: <a href="tel:+4939253251790" className="text-[#0C2D55]">03925 325179</a></p>
           <p>
-            <strong>Berufsbezeichnung:</strong> Orthopädie-Schuhtechnikermeister<br />
-            Verliehen in der Bundesrepublik Deutschland
+            <strong>Berufsbezeichnung:</strong> Orthopädie-Schuhmachermeister
           </p>
           <p>
             <strong>Zuständige Handwerkskammer:</strong><br />
@@ -128,6 +127,12 @@ export default function Footer() {
                   <Phone size={15} className="text-blue-400 flex-shrink-0" />
                   <a href="tel:+4939253251790" className="hover:text-white transition-colors">
                     03925 325179
+                  </a>
+                </li>
+                <li className="flex items-center gap-2.5">
+                  <Mail size={15} className="text-blue-400 flex-shrink-0" />
+                  <a href="mailto:info@wandt-ost.de" className="hover:text-white transition-colors">
+                    info@wandt-ost.de
                   </a>
                 </li>
                 <li className="flex items-start gap-2.5">
