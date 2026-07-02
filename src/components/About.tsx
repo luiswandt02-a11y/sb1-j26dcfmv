@@ -25,7 +25,7 @@ export default function About() {
             </h2>
             <p className="text-gray-600 leading-relaxed mb-6 text-base">
               Bei WANDT Orthopädie-Schuhtechnik steht der Mensch im Mittelpunkt. Mit jahrelanger
-              Erfahrung im orthopädischen Handwerk versorgen wir unsere Patientinnen und Patienten
+              Erfahrung im orthopädischen Handwerk versorgen wir unsere Patienten
               individuell, kompetent und mit echtem Engagement.
             </p>
             <p className="text-gray-600 leading-relaxed mb-8 text-base">

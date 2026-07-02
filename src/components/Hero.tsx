@@ -41,12 +41,8 @@ export default function Hero() {
             <span className="font-light text-blue-200">Orthopädie-Schuhtechnik</span>
           </h1>
 
-          <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-4 font-light max-w-xl">
+          <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-10 font-light max-w-xl">
             Individuelle orthopädische Lösungen für Alltag, Beruf und Bewegung.
-          </p>
-
-          <p className="text-sm text-blue-300 mb-10 tracking-wide">
-            Besuchen Sie uns gerne ohne Termin.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4">
