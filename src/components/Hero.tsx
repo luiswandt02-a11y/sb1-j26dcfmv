@@ -47,7 +47,7 @@ export default function Hero() {
 
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href="tel:+4939253251790"
+              href="tel:+493925325179"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white text-[#0C2D55] font-semibold rounded hover:bg-blue-50 transition-colors duration-200 text-sm tracking-wide"
             >
               <Phone size={16} />
@@ -70,7 +70,7 @@ export default function Hero() {
             <span className="hidden sm:inline text-blue-400">|</span>
             <span>Mo – Fr &nbsp;09:00 – 17:00 Uhr</span>
             <span className="hidden sm:inline text-blue-400">|</span>
-            <a href="tel:+4939253251790" className="hover:text-white transition-colors">03925 325179</a>
+            <a href="tel:+493925325179" className="hover:text-white transition-colors">03925/325179</a>
           </div>
         </div>
       </div>

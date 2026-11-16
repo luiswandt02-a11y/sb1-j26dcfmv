@@ -34,10 +34,10 @@ export default function About() {
               Kommen Sie einfach vorbei.
             </p>
             <a
-              href="tel:+4939253251790"
+              href="tel:+493925325179"
               className="inline-flex items-center gap-2 text-sm font-semibold text-[#0C2D55] hover:underline"
             >
-              03925 325179 &rarr;
+              03925/325179 &rarr;
             </a>
           </div>
 

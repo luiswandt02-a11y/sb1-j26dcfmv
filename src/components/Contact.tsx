@@ -59,10 +59,10 @@ export default function Contact() {
               <div>
                 <p className="text-xs font-semibold text-gray-400 uppercase tracking-widest mb-1">Telefon</p>
                 <a
-                  href="tel:+4939253251790"
+                  href="tel:+493925325179"
                   className="text-gray-800 font-medium hover:text-[#0C2D55] transition-colors"
                 >
-                  03925 325179
+                  03925/325179
                 </a>
               </div>
             </div>
@@ -128,11 +128,11 @@ export default function Contact() {
         {/* CTA */}
         <div className="mt-10 text-center">
           <a
-            href="tel:+4939253251790"
+            href="tel:+493925325179"
             className="inline-flex items-center gap-2 px-8 py-4 bg-[#0C2D55] text-white font-semibold rounded hover:bg-[#0e3870] transition-colors duration-200 text-sm tracking-wide"
           >
             <Phone size={16} />
-            03925 325179 – Jetzt anrufen
+            03925/325179 – Jetzt anrufen
           </a>
         </div>
       </div>

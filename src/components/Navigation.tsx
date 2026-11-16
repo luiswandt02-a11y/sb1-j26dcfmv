@@ -58,7 +58,7 @@ export default function Navigation() {
               </a>
             ))}
             <a
-              href="tel:+4939253251790"
+              href="tel:+493925325179"
               className="ml-4 px-5 py-2 bg-[#0C2D55] text-white text-sm font-medium rounded hover:bg-[#0e3870] transition-colors duration-200"
             >
               Anrufen
@@ -90,7 +90,7 @@ export default function Navigation() {
             </a>
           ))}
           <a
-            href="tel:+4939253251790"
+            href="tel:+493925325179"
             className="mt-2 px-5 py-3 bg-[#0C2D55] text-white text-sm font-medium rounded text-center hover:bg-[#0e3870] transition-colors duration-200"
           >
             Jetzt anrufen
