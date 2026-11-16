@@ -15,7 +15,7 @@ function ImpressumModal({ onClose }: { onClose: () => void }) {
         <div className="text-sm text-gray-600 space-y-3 leading-relaxed">
           <p><strong>WANDT Orthopädie-Schuhtechnik</strong><br />Inhaber: Dirk Wandt</p>
           <p>Bodestr. 5<br />39418 Staßfurt</p>
-          <p>Telefon: <a href="tel:+4939253251790" className="text-[#0C2D55]">03925 325179</a></p>
+          <p>Telefon: <a href="tel:+493925325179" className="text-[#0C2D55]">03925/325179</a></p>
           <p>
             <strong>Berufsbezeichnung:</strong> Orthopädie-Schuhmachermeister
           </p>
@@ -125,8 +125,8 @@ export default function Footer() {
                 </li>
                 <li className="flex items-center gap-2.5">
                   <Phone size={15} className="text-blue-400 flex-shrink-0" />
-                  <a href="tel:+4939253251790" className="hover:text-white transition-colors">
-                    03925 325179
+                  <a href="tel:+493925325179" className="hover:text-white transition-colors">
+                    03925/325179
                   </a>
                 </li>
                 <li className="flex items-center gap-2.5">
